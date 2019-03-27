@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * @file locale/es_ES/locale.xml
+  *
+  * Copyright (c) 2003-2019 Simon Fraser University
+  * Copyright (c) 2003-2019 John Willinsky
+  * Distributed under the GNU GPL v3. For full terms see the file LICENSE.
+  *
+  * Localization strings.
+  -->
+
+<locale name="es_ES" full_name="Español (España)">
+	<message key="plugins.generic.registrationNotification.displayName">Módulo de Notificación de Registro</message>
+	<message key="plugins.generic.registrationNotification.description">Envía una notificación por correo electrónico a una lista configurable de correos electrónicos cada vez que se registra un nuevo usuario.</message>
+	<message key="plugins.generic.registrationNotification.description.seeReadme"><![CDATA[Envía una notificación por correo electrónico a una lista configurable de correos electrónicos cada vez que se registra un nuevo usuario. <strong>Consulte el documento README de este módulo para obtener instrucciones acerca de la instalación.</strong>]]></message>
+</locale>
