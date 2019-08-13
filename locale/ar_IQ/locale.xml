@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * @file locale/ar_IQ/locale.xml
+  *
+  * Copyright (c) 2003-2019 Simon Fraser University
+  * Copyright (c) 2003-2019 John Willinsky
+  * Distributed under the GNU GPL v3. For full terms see the file LICENSE.
+  *
+  * Localization strings.
+  -->
+
+<locale name="ar_IQ" full_name="العربية">
+	<message key="plugins.generic.registrationNotification.displayName">إضافة إشعارات التسجيل</message>
+	<message key="plugins.generic.registrationNotification.description">ترسل إشعاراً عبر البريد الالكتروني إلى قائمة عناوين قابلة للتخصيص كلما قام مستخدم جديد بالتسجيل في الموقع.</message>
+	<message key="plugins.generic.registrationNotification.description.seeReadme"><![CDATA[ترسل إشعاراً عبر البريد الالكتروني إلى قائمة عناوين قابلة للتخصيص كلما قام مستخدم جديد بالتسجيل في الموقع. <strong>أنظر ملف README لهذه الإضافة للتعرف على كيفية التنصيب.</strong>]]></message>
+</locale>
