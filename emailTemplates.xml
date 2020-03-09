@@ -10,5 +10,5 @@
   * Email templates XML file.
   -->
 <emails>
-	<email key="REGISTRATION_NOTIFICATION" can_edit="1" can_disable="0"/>
+	<email key="REGISTRATION_NOTIFICATION" can_edit="1" can_disable="0" subject="emails.registrationNotification.subject" description="emails.registrationNotification.description" body="emails.registrationNotification.body"/>
 </emails>
