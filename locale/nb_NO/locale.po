@@ -1,8 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2021-01-28 11:49+0000\n"
-"Last-Translator: FRITT, University of Oslo Library <fritt-"
-"info@journals.uio.no>\n"
+"Last-Translator: Tormod Strømme <tormod.stromme@uib.no>\n"
 "Language-Team: Norwegian Bokmål <http://translate.pkp.sfu.ca/projects/"
 "registrationNotification/locale-keys/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 msgid "plugins.generic.registrationNotification.description"
 msgstr ""
-"Sender en e-post til en konfigurerbar liste over e-postadresse hver gang en "
+"Sender en e-post til en konfigurerbar liste av e-postadresser hver gang en "
 "ny bruker blir registrert."
 
 msgid "plugins.generic.registrationNotification.displayName"
