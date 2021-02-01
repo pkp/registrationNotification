@@ -3,8 +3,8 @@
 /**
  * @file plugins/generic/registrationNotification/RegistrationNotificationPlugin.inc.php
  *
- * Copyright (c) 2003-2019 Simon Fraser University
- * Copyright (c) 2003-2019 John Willinsky
+ * Copyright (c) 2003-2021 Simon Fraser University
+ * Copyright (c) 2003-2021 John Willinsky
  * Distributed under the GNU GPL v3. For full terms see the file LICENSE.
  *
  * @brief registrationNotification plugin
