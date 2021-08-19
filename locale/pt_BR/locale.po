@@ -1,6 +1,7 @@
+# cicilia conceiçao de maria <ccmaria@uem.br>, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-23 14:40+0000\n"
+"PO-Revision-Date: 2021-08-20 14:02+0000\n"
 "Last-Translator: cicilia conceiçao de maria <ccmaria@uem.br>\n"
 "Language-Team: Portuguese (Brazil) <http://translate.pkp.sfu.ca/projects/"
 "registrationNotification/locale-keys/pt_BR/>\n"
@@ -17,6 +18,7 @@ msgstr ""
 "sempre que um novo usuário é registrado. <strong> Consulte o documento "
 "README deste plugin para obter instruções de instalação. </strong>"
 
+#, fuzzy
 msgid "plugins.generic.registrationNotification.description"
 msgstr ""
 "Envia uma notificação por e-mail para uma lista configurável de emails "
