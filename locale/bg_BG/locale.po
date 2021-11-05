@@ -1,8 +1,27 @@
 # Cyril Kamburov <cc@intermedia.bg>, 2021.
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-11-05 07:25+0000\n"
+"Last-Translator: Cyril Kamburov <cc@intermedia.bg>\n"
+"Language-Team: Bulgarian <http://translate.pkp.sfu.ca/projects/"
+"registrationNotification/locale-keys/bg_BG/>\n"
 "Language: bg_BG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.registrationNotification.description.seeReadme"
+msgstr ""
+"Изпраща известие по имейл до конфигурируем списък с имейли, когато се "
+"регистрира нов потребител. <strong>Вижте документа README на тази приставка "
+"(плъгин) за инструкции за инсталиране.</strong>"
+
+msgid "plugins.generic.registrationNotification.description"
+msgstr ""
+"Изпраща известие по имейл до конфигурируем списък с имейли, когато се "
+"регистрира нов потребител."
+
+msgid "plugins.generic.registrationNotification.displayName"
+msgstr "Плъгин за известия за регистрация"
