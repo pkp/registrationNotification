@@ -1,0 +1,28 @@
+# Artashes Mirzoyan <amirzoyan@sci.am>, 2022.
+# Tigran Zargaryan <tigran@flib.sci.am>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-30 06:31+0000\n"
+"Last-Translator: Tigran Zargaryan <tigran@flib.sci.am>\n"
+"Language-Team: Armenian <http://translate.pkp.sfu.ca/projects/"
+"registrationNotification/locale-keys/hy_AM/>\n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.registrationNotification.description.seeReadme"
+msgstr ""
+"Էլ․ փոստի ծանուցում է ուղարկում էլ․ փոստի կարգաբերելի ցուցակին, երբ նոր "
+"օգտվող գրանցվում է: <strong>Տեղադրման հրահանգների համար տես այս հավելվածի "
+"README փաստաթուղթը:</strong>"
+
+msgid "plugins.generic.registrationNotification.description"
+msgstr ""
+"Էլ․ փոստի ծանուցում է ուղարկում էլ․ փոստի կարգաբերելի ցուցակին, երբ նոր "
+"օգտվող գրանցվում է:"
+
+msgid "plugins.generic.registrationNotification.displayName"
+msgstr "Գրանցման ծանուցման հավելված"
