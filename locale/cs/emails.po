@@ -1,8 +1,32 @@
 # Jiří Podhorecký <j.podhorecky@gmail.com>, 2023.
+# Jiří Dlouhý <jiri.dlouhy@czp.cuni.cz>, 2023.
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-04-21 12:48+0000\n"
+"Last-Translator: Jiří Dlouhý <jiri.dlouhy@czp.cuni.cz>\n"
+"Language-Team: Czech <http://translate.pkp.sfu.ca/projects/"
+"registrationNotification/emails/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "emails.registrationNotification.subject"
+msgstr "Oznámení o registraci"
+
+msgid "emails.registrationNotification.description"
+msgstr ""
+"Tato e-mailová šablona slouží k oznámení, že byl zaregistrován nový uživatel."
+
+msgid "emails.registrationNotification.body"
+msgstr ""
+"Nový uživatel byl zaregistrován dne {$date} v časopisu {$contextName}.\n"
+"<br /><strong>Jméno:</strong> {$userFullName}\n"
+"<br /><strong>Uživatelské jméno:</strong> {$userName}\n"
+"<br /><strong>Email:</strong> {$userEmail}</a>\n"
+"<br />\n"
+"<br />\n"
+"Tento e-mail byl vygenerován zásuvným modulem Public Knowledge Project "
+"Registration Notification."
