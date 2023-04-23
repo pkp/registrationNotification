@@ -1,8 +1,27 @@
 # Jiří Dlouhý <jiri.dlouhy@czp.cuni.cz>, 2023.
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-04-24 18:49+0000\n"
+"Last-Translator: Jiří Dlouhý <jiri.dlouhy@czp.cuni.cz>\n"
+"Language-Team: Czech <http://translate.pkp.sfu.ca/projects/"
+"registrationNotification/locale-keys/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "plugins.generic.registrationNotification.displayName"
+msgstr "PlPlugin pro oznámení o registraci"
+
+msgid "plugins.generic.registrationNotification.description"
+msgstr ""
+"Odešle e-mailové oznámení do konfigurovatelného e-mailového seznamu, kdykoli "
+"se zaregistruje nový uživatel."
+
+msgid "plugins.generic.registrationNotification.description.seeReadme"
+msgstr ""
+"Odešle e-mailové oznámení na konfigurovatelný seznam e-mailů, kdykoli se "
+"zaregistruje nový uživatel. <strong>Pokyny k instalaci naleznete v dokumentu "
+"README tohoto zásuvného modulu.</strong>"
