@@ -51,8 +51,9 @@ class RegistrationNotificationPlugin extends GenericPlugin {
 	 * @return bool True if a new registration is being handled
 	 */
 	private function isHandlingRegistration() {
-		$request = Application::getRequest();
-		return $request->isPost() && $request->getRequestedPage() == 'user' && $request->getRequestedOp() == 'register';
+		$request = Application::get()->getRequest();
+		$router = $request->getRouter();
+		return $request->isPost() && $router instanceof PKPPageRouter && $router->getRequestedPage($request) == 'user' && $router->getRequestedOp($request) == 'register';
 	}
 
 	/**

@@ -73,7 +73,7 @@ class RegistrationNotificationSettingsForm extends Form {
 	/**
 	 * @copydoc Form::fetch()
 	 */
-	public function fetch($request) {
+	public function fetch($request, $template = null, $display = false) {
 		$templateManager = TemplateManager::getManager($request);
 		$templateManager->assign('pluginName', $this->_plugin->getName());
 		$templateManager->addJavaScript(
@@ -84,14 +84,14 @@ class RegistrationNotificationSettingsForm extends Form {
 				'contexts' => 'RegistrationNotificationSettingsForm'
 			]
 		);
-		return parent::fetch($request);
+		return parent::fetch($request, $template, $display);
 	}
 
 	/**
-	 * @copydoc Form::fetch()
+	 * @copydoc Form::execute()
 	 */
-	public function execute() {
+	public function execute(...$functionArgs) {
 		$this->_plugin->updateSetting($this->_contextId, 'recipientList', array_combine($this->getData('email'), $this->getData('name')), 'object');
-		return parent::execute();
+		return parent::execute(...$functionArgs);
 	}
 }
